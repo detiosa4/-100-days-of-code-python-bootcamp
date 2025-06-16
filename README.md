@@ -45,8 +45,5 @@ Email: detiosa@yahoo.com
 
 GitHub: https://github.com/detiosa4
 
-Happy coding! 🚀
-
-yaml
-Copy
-Edit
+Happy coding! 
+📝📝📝
