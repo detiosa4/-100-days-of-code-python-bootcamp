@@ -14,7 +14,7 @@ The goal of this challenge is to code every day for 100 days straight, focusing 
 ## Project Structure
 
 - `Day01/` — Band Name Generator  
-- `Day02/` — [Description for Day 2]  
+- `Day02/` — Tip Calculator
 - `Day03/` — [Description for Day 3]  
 - `...`
 
