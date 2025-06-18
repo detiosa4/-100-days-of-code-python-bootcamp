@@ -25,3 +25,5 @@ Today’s project: **Treasure Island** — a text-based adventure game built wit
 - Learned how to break complex logic into smaller steps.
 - Initially struggled with **nesting** and keeping track of indentation — now much clearer!
 - Reinforced how control flow builds the core of interactive programs.
+
+
