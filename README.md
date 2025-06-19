@@ -15,7 +15,7 @@ The goal of this challenge is to code every day for 100 days straight, focusing 
 
 - `Day01/` — Band Name Generator  
 - `Day02/` — Tip Calculator
-- `Day03/` — [Description for Day 3]  
+- `Day03/` — Treasure Island Project
 - `...`
 
 Each folder contains the code, notes, and resources related to that day’s challenge.
